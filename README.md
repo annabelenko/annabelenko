@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabelenko&layout=compact&theme=radical&hide=html,css)
 
 
-![Stickman](https://raw.githubusercontent.com/annabelenko/annabelenko/main/stickman.svg)
+![Stickman](https://raw.githubusercontent.com/annabelenko/annabelenko/main/stickman_new.svg)
