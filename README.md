@@ -4,6 +4,7 @@
 
 ### Frontend & Graphics
 ![React](https://img.shields.io/badge/React-white?style=outline&color=black)
+![AngularJS](https://img.shields.io/badge/AngularJS-white?style=outline&color=black)
 ![Three.js](https://img.shields.io/badge/Three.js-white?style=outline&color=black)
 ![Aseprite](https://img.shields.io/badge/Aseprite-white?style=outline&color=black)
 ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-white?style=outline&color=black)
@@ -21,10 +22,11 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=outline&color=black)
 ![UMAP](https://img.shields.io/badge/UMAP-white?style=outline&color=black)
 
-### Infrastructure & OS
-![Linux](https://img.shields.io/badge/Linux-white?style=outline&color=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=outline&color=black)
+### Cloud & Infrastructure
+![AWS AI Agents](https://img.shields.io/badge/AWS-white?style=outline&color=black)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-white?style=outline&color=black)
 ![Docker](https://img.shields.io/badge/Docker-white?style=outline&color=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=outline&color=black)
 ![Git](https://img.shields.io/badge/Git-white?style=outline&color=black)
 
 ### Interests
