@@ -10,3 +10,4 @@
 ![Film Photography](https://img.shields.io/badge/Film_Photography-white?style=outline&color=black)
 ![Aquascaping](https://img.shields.io/badge/Aquascaping-white?style=outline&color=black)
 ![Biking](https://img.shields.io/badge/Biking-white?style=outline&color=black)
+![Animation](https://img.shields.io/badge/Animation-white?style=outline&color=black)
