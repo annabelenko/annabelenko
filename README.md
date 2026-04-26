@@ -2,4 +2,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=annabelenko&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabelenko&layout=compact&theme=radical&hide=html,css)
 ![Monthly Commits](https://github-profile-summary-cards.vercel.app/api/cards/commits-per-month?username=annabelenko&theme=github_dark)
-![Stickman Animation](https://raw.githubusercontent.com/annabelenko/annabelenko/main/stickman.svg)
+![Walking stick figure](walking.svg)
