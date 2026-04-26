@@ -3,10 +3,10 @@
 [![](https://raw.githubusercontent.com/annabelenko/annabelenko/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/annabelenko/annabelenko/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 ![Stickman](https://raw.githubusercontent.com/annabelenko/annabelenko/main/stickman_new.svg)
 
-### 🛠️ Tech Stack
-[![](https://skillicons.dev/icons?i=py,cpp,js,linux,git,bash&theme=light&perline=10)](https://skillicons.dev)
+###Tech Stack
+[![](https://skillicons.dev/icons?i=py,cpp,js,linux,git,bash,godot,gamemaker,mongodb,firebase,html,css,tailwind,figma,affinity&theme=light&perline=10)](https://skillicons.dev)
 
-### 🌿 Interests
+###Interests
 ![Film Photography](https://img.shields.io/badge/Film_Photography-white?style=outline&color=black)
 ![Aquascaping](https://img.shields.io/badge/Aquascaping-white?style=outline&color=black)
 ![Biking](https://img.shields.io/badge/Biking-white?style=outline&color=black)
