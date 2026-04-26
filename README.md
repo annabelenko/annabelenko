@@ -3,14 +3,19 @@
 [![](https://raw.githubusercontent.com/annabelenko/annabelenko/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/annabelenko/annabelenko/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
 ### 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-white?style=outline&color=black)
 ![Python](https://img.shields.io/badge/Python-white?style=outline&color=black)
 ![C++](https://img.shields.io/badge/C++-white?style=outline&color=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=outline&color=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?style=outline&color=black)
 ![Linux](https://img.shields.io/badge/Linux-white?style=outline&color=black)
 ![Git](https://img.shields.io/badge/Git-white?style=outline&color=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=outline&color=black)
 ![Supabase](https://img.shields.io/badge/Supabase-white?style=outline&color=black)
 ![Figma](https://img.shields.io/badge/Figma-white?style=outline&color=black)
+![Aesprite](https://img.shields.io/badge/Aesprite-white?style=outline&color=black)
+![Affinity Designer](https://img.shields.io/badge/Affinity-white?style=outline&color=black)
+
 
 ### 🌿 Interests
 ![Film Photography](https://img.shields.io/badge/Film_Photography-white?style=outline&color=black)
