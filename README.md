@@ -11,3 +11,4 @@
 ![Aquascaping](https://img.shields.io/badge/Aquascaping-white?style=outline&color=black)
 ![Biking](https://img.shields.io/badge/Biking-white?style=outline&color=black)
 ![Pixel Art](https://img.shields.io/badge/Pixel-Art-white?style=outline&color=black)
+![Cats](https://img.shields.io/badge/Cats-white?style=outline&color=black)
