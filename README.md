@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabelenko&layout=compact&theme=radical&hide=html,css)
 
 
-![Walking stick figure](walking.svg)
+![Stickman Animation](https://raw.githubusercontent.com/annabelenko/annabelenko/main/walking.svg)
