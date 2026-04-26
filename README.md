@@ -4,7 +4,7 @@
 ![Stickman](https://raw.githubusercontent.com/annabelenko/annabelenko/main/stickman_new.svg)
 
 ### 🛠️ Tech Stack
-[![](https://skillicons.dev/icons?i=py,cpp,js,linux,git,bash,affinity&theme=light&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=py,cpp,js,linux,git,bash,affinity designer&theme=light&perline=10)](https://skillicons.dev)
 
 ### 🌿 Interests
 ![Film Photography](https://img.shields.io/badge/Film_Photography-white?style=outline&color=black)
