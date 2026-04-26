@@ -5,6 +5,7 @@
 ### Frontend & Graphics
 ![React](https://img.shields.io/badge/React-white?style=outline&color=black)
 ![AngularJS](https://img.shields.io/badge/AngularJS-white?style=outline&color=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-white?style=outline&color=black)
 ![Three.js](https://img.shields.io/badge/Three.js-white?style=outline&color=black)
 ![Aseprite](https://img.shields.io/badge/Aseprite-white?style=outline&color=black)
 ![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-white?style=outline&color=black)
@@ -28,6 +29,7 @@
 ![Docker](https://img.shields.io/badge/Docker-white?style=outline&color=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=outline&color=black)
 ![Git](https://img.shields.io/badge/Git-white?style=outline&color=black)
+![Linux](https://img.shields.io/badge/Linux-white?style=outline&color=black)
 
 ### Interests
 ![Film Photography](https://img.shields.io/badge/Film_Photography-white?style=outline&color=black)
