@@ -2,22 +2,28 @@
 [![](https://raw.githubusercontent.com/annabelenko/annabelenko/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/annabelenko/annabelenko/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/annabelenko/annabelenko/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-white?style=outline&color=black)
-![Python](https://img.shields.io/badge/Python-white?style=outline&color=black)
-![C++](https://img.shields.io/badge/C++-white?style=outline&color=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=outline&color=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=outline&color=black)
-![Linux](https://img.shields.io/badge/Linux-white?style=outline&color=black)
-![Git](https://img.shields.io/badge/Git-white?style=outline&color=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=outline&color=black)
-![Supabase](https://img.shields.io/badge/Supabase-white?style=outline&color=black)
+### Frontend & Graphics
+![React](https://img.shields.io/badge/React-white?style=outline&color=black)
+![Three.js](https://img.shields.io/badge/Three.js-white?style=outline&color=black)
+![Aseprite](https://img.shields.io/badge/Aseprite-white?style=outline&color=black)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-white?style=outline&color=black)
 ![Figma](https://img.shields.io/badge/Figma-white?style=outline&color=black)
-![Aesprite](https://img.shields.io/badge/Aesprite-white?style=outline&color=black)
-![Affinity Designer](https://img.shields.io/badge/Affinity-white?style=outline&color=black)
+![Canva](https://img.shields.io/badge/Canva-white?style=outline&color=black)
 
+### AI & RAG
+![Ollama](https://img.shields.io/badge/Ollama-white?style=outline&color=black)
+![LightRAG](https://img.shields.io/badge/LightRAG-white?style=outline&color=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-white?style=outline&color=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-white?style=outline&color=black)
+![LangChain](https://img.shields.io/badge/LangChain-white?style=outline&color=black)
 
-### 🌿 Interests
+### Infrastructure & OS
+![Linux](https://img.shields.io/badge/Linux-white?style=outline&color=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-white?style=outline&color=black)
+![Docker](https://img.shields.io/badge/Docker-white?style=outline&color=black)
+![Git](https://img.shields.io/badge/Git-white?style=outline&color=black)
+
+### Interests
 ![Film Photography](https://img.shields.io/badge/Film_Photography-white?style=outline&color=black)
 ![Aquascaping](https://img.shields.io/badge/Aquascaping-white?style=outline&color=black)
 ![Biking](https://img.shields.io/badge/Biking-white?style=outline&color=black)
