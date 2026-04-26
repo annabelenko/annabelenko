@@ -10,12 +10,16 @@
 ![Figma](https://img.shields.io/badge/Figma-white?style=outline&color=black)
 ![Canva](https://img.shields.io/badge/Canva-white?style=outline&color=black)
 
-### AI & RAG
+### AI & ML
 ![Ollama](https://img.shields.io/badge/Ollama-white?style=outline&color=black)
 ![LightRAG](https://img.shields.io/badge/LightRAG-white?style=outline&color=black)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-white?style=outline&color=black)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-white?style=outline&color=black)
 ![LangChain](https://img.shields.io/badge/LangChain-white?style=outline&color=black)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=outline&color=black)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=outline&color=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=outline&color=black)
+![UMAP](https://img.shields.io/badge/UMAP-white?style=outline&color=black)
 
 ### Infrastructure & OS
 ![Linux](https://img.shields.io/badge/Linux-white?style=outline&color=black)
