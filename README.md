@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+a+Software+Engineer;Website+Developer;Data+Analyst;Community+Leader)](https://git.io/typing-svg)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=annabelenko&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annabelenko&layout=compact&theme=radical&hide=html,css)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annebelenko&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annabelenko&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Stickman Animation](https://raw.githubusercontent.com/annabelenko/annabelenko/main/stickman.svg)
