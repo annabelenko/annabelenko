@@ -1,0 +1,126 @@
+<svg width="100%" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+<style>
+  @media (prefers-color-scheme: dark) {
+    .fig, .head, line[stroke="currentColor"] { stroke: white; fill: white; }
+    .head { fill: white; }
+    .ground { stroke: rgba(255,255,255,0.15); }
+  }
+  @media (prefers-color-scheme: light) {
+    .fig { stroke: #111; } .head { fill: #111; stroke: #111; }
+    .ground { stroke: rgba(0,0,0,0.15); }
+  }
+  .fig { stroke-linecap: round; stroke-linejoin: round; fill: none; }
+  #figure { animation: travel 9s linear infinite; }
+  @keyframes travel { 0%{transform:translateX(-70px)} 100%{transform:translateX(860px)} }
+
+  .group-walk   { display:inline; animation: hide-walk   9s steps(1) infinite; }
+  .group-sprint { display:none;   animation: show-sprint 9s steps(1) infinite; }
+  .group-cart   { display:none;   animation: show-cart   9s steps(1) infinite; }
+  .group-jump   { display:none;   animation: show-jump   9s steps(1) infinite; }
+
+  @keyframes hide-walk   { 0%{display:inline} 30%{display:none} 65%{display:inline} 100%{display:inline} }
+  @keyframes show-sprint { 0%{display:none} 30%{display:inline} 45%{display:none} 100%{display:none} }
+  @keyframes show-cart   { 0%{display:none} 45%{display:inline} 55%{display:none} 100%{display:none} }
+  @keyframes show-jump   { 0%{display:none} 55%{display:inline} 65%{display:none} 100%{display:none} }
+
+  .walk-a { animation: wa 0.40s steps(1) infinite; }
+  .walk-b { animation: wb 0.40s steps(1) infinite; }
+  @keyframes wa { 0%{display:inline} 50%{display:none} 100%{display:inline} }
+  @keyframes wb { 0%{display:none}   50%{display:inline} 100%{display:none} }
+
+  .sprint-a { animation: sa 0.22s steps(1) infinite; }
+  .sprint-b { animation: sb 0.22s steps(1) infinite; }
+  @keyframes sa { 0%{display:inline} 50%{display:none} 100%{display:inline} }
+  @keyframes sb { 0%{display:none}   50%{display:inline} 100%{display:none} }
+
+  .spin { transform-origin:0px 0px; animation: cartSpin 0.55s linear infinite; }
+  @keyframes cartSpin { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+
+  .jump-bob { animation: jb 0.45s ease-in-out infinite alternate; }
+  @keyframes jb { from{transform:translateY(0)} to{transform:translateY(-22px)} }
+
+  .lean { transform:rotate(12deg); transform-origin:0px -10px; }
+</style>
+
+<line class="ground" x1="0" y1="100" x2="800" y2="100" stroke-width="0.5"/>
+
+<g id="figure">
+
+  <!-- WALK -->
+  <g class="group-walk">
+    <g class="walk-a">
+      <circle class="head" cx="0" cy="-72" r="9"/>
+      <line class="fig" x1="0" y1="-63" x2="0" y2="-38" stroke-width="2.2"/>
+      <line class="fig" x1="0" y1="-57" x2="-12" y2="-45" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-57" x2="13" y2="-50" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-38" x2="-10" y2="-18" stroke-width="2"/>
+      <line class="fig" x1="-10" y1="-18" x2="-14" y2="0" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-38" x2="10" y2="-20" stroke-width="2"/>
+      <line class="fig" x1="10" y1="-20" x2="8" y2="0" stroke-width="2"/>
+    </g>
+    <g class="walk-b">
+      <circle class="head" cx="0" cy="-72" r="9"/>
+      <line class="fig" x1="0" y1="-63" x2="0" y2="-38" stroke-width="2.2"/>
+      <line class="fig" x1="0" y1="-57" x2="13" y2="-45" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-57" x2="-13" y2="-50" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-38" x2="10" y2="-18" stroke-width="2"/>
+      <line class="fig" x1="10" y1="-18" x2="14" y2="0" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-38" x2="-10" y2="-20" stroke-width="2"/>
+      <line class="fig" x1="-10" y1="-20" x2="-8" y2="0" stroke-width="2"/>
+    </g>
+  </g>
+
+  <!-- SPRINT -->
+  <g class="group-sprint">
+    <g class="lean">
+      <g class="sprint-a">
+        <circle class="head" cx="0" cy="-74" r="9"/>
+        <line class="fig" x1="0" y1="-65" x2="0" y2="-38" stroke-width="2.2"/>
+        <line class="fig" x1="0" y1="-58" x2="-18" y2="-48" stroke-width="2"/>
+        <line class="fig" x1="0" y1="-58" x2="16" y2="-66" stroke-width="2"/>
+        <line class="fig" x1="0" y1="-38" x2="-16" y2="-14" stroke-width="2"/>
+        <line class="fig" x1="-16" y1="-14" x2="-20" y2="0" stroke-width="2"/>
+        <line class="fig" x1="0" y1="-38" x2="18" y2="-18" stroke-width="2"/>
+        <line class="fig" x1="18" y1="-18" x2="14" y2="0" stroke-width="2"/>
+      </g>
+      <g class="sprint-b">
+        <circle class="head" cx="0" cy="-74" r="9"/>
+        <line class="fig" x1="0" y1="-65" x2="0" y2="-38" stroke-width="2.2"/>
+        <line class="fig" x1="0" y1="-58" x2="18" y2="-48" stroke-width="2"/>
+        <line class="fig" x1="0" y1="-58" x2="-16" y2="-66" stroke-width="2"/>
+        <line class="fig" x1="0" y1="-38" x2="16" y2="-14" stroke-width="2"/>
+        <line class="fig" x1="16" y1="-14" x2="20" y2="0" stroke-width="2"/>
+        <line class="fig" x1="0" y1="-38" x2="-18" y2="-18" stroke-width="2"/>
+        <line class="fig" x1="-18" y1="-18" x2="-14" y2="0" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- CARTWHEEL -->
+  <g class="group-cart">
+    <g class="spin" transform="translate(0,-36)">
+      <circle class="head" cx="0" cy="-30" r="9"/>
+      <line class="fig" x1="0" y1="-21" x2="0" y2="0" stroke-width="2.2"/>
+      <line class="fig" x1="0" y1="-12" x2="-30" y2="-12" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-12" x2="30" y2="-12" stroke-width="2"/>
+      <line class="fig" x1="0" y1="0" x2="-24" y2="28" stroke-width="2"/>
+      <line class="fig" x1="0" y1="0" x2="24" y2="28" stroke-width="2"/>
+    </g>
+  </g>
+
+  <!-- JUMP -->
+  <g class="group-jump">
+    <g class="jump-bob">
+      <circle class="head" cx="0" cy="-84" r="9"/>
+      <line class="fig" x1="0" y1="-75" x2="0" y2="-48" stroke-width="2.2"/>
+      <line class="fig" x1="0" y1="-65" x2="-18" y2="-80" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-65" x2="18" y2="-80" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-48" x2="-14" y2="-30" stroke-width="2"/>
+      <line class="fig" x1="-14" y1="-30" x2="-10" y2="-14" stroke-width="2"/>
+      <line class="fig" x1="0" y1="-48" x2="14" y2="-30" stroke-width="2"/>
+      <line class="fig" x1="14" y1="-30" x2="10" y2="-14" stroke-width="2"/>
+    </g>
+  </g>
+
+</g>
+</svg>
